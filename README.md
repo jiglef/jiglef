@@ -32,6 +32,7 @@ He desarrollado diversos proyectos personales con Java, explorando frameworks co
   
 </p>
 
+---
 
 ## 📂 Proyectos destacados
 
