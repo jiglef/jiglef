@@ -31,7 +31,7 @@ He desarrollado diversos proyectos personales con Java, explorando frameworks co
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   
 </p>
----
+
 
 ## 📂 Proyectos destacados
 
