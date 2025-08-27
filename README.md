@@ -35,10 +35,19 @@ He desarrollado diversos proyectos personales con Java, explorando frameworks co
 ---
 
 ## 📂 Proyectos destacados
+<div style="border: 1px solid #e1e4e8; border-radius: 10px; padding: 16px; width: 45%; background-color: #f9f9f9; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+    <a href="https://github.com/jiglef/CalculadoraEstadisticas" style="text-decoration: none;">
+      <h3 style="margin: 0; color: #0366d6;">Calculadora Estadística</h3>
+    </a>
+    <p style="font-size: 14px; margin: 6px 0;">
+      Aplicación en consola para gestionar tareas, con guardado en fichero, prioridades y filtros.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+    </p>
+</div>
 
-![Próximamente](https://img.shields.io/badge/Próximamente-mis%20mejores%20proyectos-lightgrey?style=for-the-badge)
-¡Mis mejores proyectos estarán disponibles próximamente!  
-Mantente atento.
 
 ---
 
