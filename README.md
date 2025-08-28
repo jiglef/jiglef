@@ -38,7 +38,7 @@ He desarrollado diversos proyectos personales con Java, explorando frameworks co
   
 ### [Calculadora Estadística](https://github.com/jiglef/CalculadoraEstadisticas)
 
-Aplicación en consola para gestionar tareas, con guardado en fichero, prioridades y filtros.
+Aplicación en consola para calcular las estadisticas de una serie de números que se le solicitan al usuario
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
