@@ -50,6 +50,7 @@ Aplicación usanfo la intefaz Swing para llevar el control del peso y la tensió
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white)
 
 
 ---
