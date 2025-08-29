@@ -44,6 +44,13 @@ Aplicación en consola para calcular las estadisticas de una serie de números q
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 
+### [Control Peso y Tensión](https://github.com/jiglef/ControlPesoTension)
+
+Aplicación usanfo la intefaz Swing para llevar el control del peso y la tensión arterial y obtener su valoración, exportando datos a tabla excel
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
 
 ---
 
