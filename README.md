@@ -35,6 +35,7 @@ He desarrollado diversos proyectos personales con Java, explorando frameworks co
 ---
 
 ## 📂 Proyectos destacados
+
   
 ### [Calculadora Estadística](https://github.com/jiglef/CalculadoraEstadisticas)
 
@@ -55,6 +56,13 @@ Aplicación usanfo la intefaz Swing para llevar el control del peso y la tensió
 ### [Piedra, papel, tijera, lagarto, Spock](https://github.com/jiglef/PiedraPapelTijeraLagartoSpock)
 
 Juego en consola basado en el clásico piedra, papel, tijera añadiendo las opciones de la serie The Big Bang Theory
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+### [Teoría de la rueda](https://github.com/jiglef/TeoriaRueda)
+
+Aplicación en consola que demuestra la teoría de la rueda de los tipos primitivos
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
