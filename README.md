@@ -68,6 +68,13 @@ Aplicación en consola que demuestra la teoría de la rueda de los tipos primiti
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
+### [Sorteos](https://github.com/jiglef/Sorteos)
+
+Aplicación en consola que simula el sorteo de Euromillones y Primitiva
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
 
 ---
 
