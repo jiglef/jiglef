@@ -75,6 +75,15 @@ Aplicación en consola que simula el sorteo de Euromillones y Primitiva
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
+###[Juego siete y media](https://github.com/jiglef/SieteYMedia)
+
+Aplicación en consola para jugar con el ordenador al juego de las siete y media
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+
+
 
 ---
 
