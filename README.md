@@ -47,7 +47,7 @@ Aplicación en consola para calcular las estadisticas de una serie de números q
 
 ### [Comparación eficacia Colecciones](https://github.com/jiglef/Colecciones)
 
-Aplicación en consola para comparar la eficacia de los diferentes tipos de colecciones en Java, manejando gran cantidad de datos
+Aplicación en consola para comparar la eficacia de los diferentes tipos de colecciones
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
