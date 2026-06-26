@@ -1,7 +1,7 @@
 <h1 align="center">Juan Antonio Iglesias Fuentes</h1>
 <h3 align="center">Desarrollador Web en Formación</h3>
 
-  <section align="center">
+  <div align="center">
             <p>
                 💻 Estudiante de Desarrollo de Aplicaciones Web (DAW).<br>
                 ☕ Conocimientos en Java y Spring Boot.<br>
@@ -10,9 +10,9 @@
                 🎯 En camino hacia mi primer puesto como desarrollador junior.
             </p>
 
-  </section>
+  </div>
 
-  <section align="center">
+  <div align="center">
             <h3>Contacto</h3>
 
             <p>
@@ -24,7 +24,7 @@
               </a>
             </p>
             
-</section>   
+</div>   
 
 
 <p align="center"><strong><em>Nunca pararé hasta llegar al mar</em></strong></p>
