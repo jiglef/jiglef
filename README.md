@@ -3,13 +3,13 @@
 <h3 align="center">Desarrollador Web en Formación</h3>
 
 <div align="center">
-  💻 Estudiante de Desarrollo de Aplicaciones Web (DAW).<br><br>
+  💻 Estudiante de Desarrollo de Aplicaciones Web (DAW).<br>
 
-  ☕ Conocimientos en Java y Spring Boot.<br><br>
+  ☕ Conocimientos en Java y Spring Boot.<br>
 
-  🚀 Construyendo proyectos para mejorar mis habilidades en desarrollo backend.<br><br>
+  🚀 Construyendo proyectos para mejorar mis habilidades en desarrollo backend.<br>
 
-  📚 Aprendiendo continuamente sobre bases de datos, testing y desarrollo web.<br><br>
+  📚 Aprendiendo continuamente sobre bases de datos, testing y desarrollo web.<br>
 
   🎯 En camino hacia mi primer puesto como desarrollador junior.
 </div>
