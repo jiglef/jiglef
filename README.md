@@ -27,8 +27,6 @@
       alt="LinkedIn">
   </a>
 
-  &nbsp;
-
   <a href="mailto:juan.iglesiasfuentes@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -37,8 +35,6 @@
 
 </div>
 
-<br>
-<br>
 
 <p align="center">
   <strong><em>Nunca pararé hasta llegar al mar</em></strong>
