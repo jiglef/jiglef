@@ -4,22 +4,20 @@
 
 <div align="center">
   💻 Estudiante de Desarrollo de Aplicaciones Web (DAW).<br>
-
   ☕ Conocimientos en Java y Spring Boot.<br>
-
   🚀 Construyendo proyectos para mejorar mis habilidades en desarrollo backend.<br>
-
   📚 Aprendiendo continuamente sobre bases de datos, testing y desarrollo web.<br>
-
   🎯 En camino hacia mi primer puesto como desarrollador junior.
 </div>
 
 <br>
 <br>
 
-<h3 align="center">Contacto</h3>
+
 
 <div align="center">
+
+  <h3>Contacto</h3>
 
   <a href="https://www.linkedin.com/in/jiglef">
     <img
