@@ -5,8 +5,7 @@
 <div align="center">
   💻 Estudiante de Desarrollo de Aplicaciones Web (DAW).<br>
   ☕ Conocimientos en Java y Spring Boot.<br>
-  🚀 Construyendo proyectos para mejorar mis habilidades en desarrollo backend.<br>
-  📚 Aprendiendo continuamente sobre bases de datos, testing y desarrollo web.<br>
+  🚀 Construyendo proyectos para mejorar mis habilidades en desarrollo web.<br>
   🎯 En camino hacia mi primer puesto como desarrollador junior.
 </div>
 
